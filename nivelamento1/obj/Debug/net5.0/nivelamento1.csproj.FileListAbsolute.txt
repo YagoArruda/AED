@@ -1,0 +1,16 @@
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.csproj.AssemblyReference.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.AssemblyInfo.cs
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.csproj.CoreCompileInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.exe
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.deps.json
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.runtimeconfig.json
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\ref\nivelamento1.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\bin\Debug\net5.0\nivelamento1.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\ref\nivelamento1.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\nivelamento1\obj\Debug\net5.0\nivelamento1.genruntimeconfig.cache
