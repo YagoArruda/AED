@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eWrtW13VPn2Yluul9qkCNx3VDbKkirmkVrexVt/enZWvjIki1O8FG06ZVxl8pSsmTLysykSjwEsOF376PcVujg==",
+  "dgSpecHash": "JwQz5JsdzUwB6f+T2wVpYOXZ7LkoCqJG1SUK5tAVSMpQmorjYDtAf4YlGeba4/Yuqi+DFl21oYKRvDL2EWdCQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\recursividade\\recursividade.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\nivelamento1.csproj": {}
+    "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\nivelamento1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\nivelamento1.csproj": {
+    "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\nivelamento1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\nivelamento1.csproj",
+        "projectUniqueName": "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\nivelamento1.csproj",
         "projectName": "nivelamento1",
-        "projectPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\nivelamento1.csproj",
-        "packagesPath": "C:\\Users\\Yago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\obj\\",
+        "projectPath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\nivelamento1.csproj",
+        "packagesPath": "C:\\Users\\1440188\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1440188\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
