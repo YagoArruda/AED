@@ -1,0 +1,15 @@
+tamanho --- tempo
+5 --- 6 milissegundos
+10 --- 8 milissegundos 
+
+50 ---
+100 ---
+500 ---
+1000 ---
+5000 ---
+10000 ---
+50000 ---
+100000 ---
+5000000 ---
+
+Não consegui rodar em tempo viável os vetores solicitados com valores acima do 10, o máximo que cheguei com teste próprios foi o 40 (37887 milissegundos) então acabei descartando a ideia de estimar os tempos devido a uma possível discrepância entre valores reais e os estimados.
