@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj": {}
+    "C:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj": {
+    "C:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj",
+        "projectUniqueName": "C:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj",
         "projectName": "recursividade",
-        "projectPath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj",
+        "projectPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\recursividade.csproj",
         "packagesPath": "C:\\Users\\1440188\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\obj\\",
+        "outputPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\recursividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1440188\\AppData\\Roaming\\NuGet\\NuGet.Config",
