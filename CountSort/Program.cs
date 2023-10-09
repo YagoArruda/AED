@@ -7,6 +7,15 @@ class Program
 {
     public static void Main(string[] args)
     {
+        //Resultados:
+        //5000000 - 60 milissegundos
+        //100000 - 1 milissegundo
+        //50000 - 0 milissegundo
+        //10000 - 0 milissegundo
+        //5000 - 0 milissegundo
+        //1000 - 0 milissegundo
+        //500 - 0 milissegundo
+
         //Inicializa os vetores com os valores originais e o dos ordenados
         int tam = 500;
         int[] baseDeDados = new int[tam];
