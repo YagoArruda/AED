@@ -1,0 +1,15 @@
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.csproj.AssemblyReference.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.AssemblyInfo.cs
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\bin\Debug\net6.0\Fila_Lista_Pilha.exe
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\bin\Debug\net6.0\Fila_Lista_Pilha.deps.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\bin\Debug\net6.0\Fila_Lista_Pilha.runtimeconfig.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\bin\Debug\net6.0\Fila_Lista_Pilha.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\bin\Debug\net6.0\Fila_Lista_Pilha.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\refint\Fila_Lista_Pilha.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\Fila_Lista_Pilha.genruntimeconfig.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Lista_Pilha\obj\Debug\net6.0\ref\Fila_Lista_Pilha.dll

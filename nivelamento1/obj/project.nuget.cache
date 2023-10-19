@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MinWA6IN3w7avQ52oFOAIri37LTWMwLggx1z1sSbvcNiZ1/FzG7NJthIyR37uZeaaD1AmXlPjO+aLyhwF+o+A==",
+  "dgSpecHash": "BIeqziru0LaPMJmGxa6mDZTX+Pkq9iZ8KDqF3hBp89/thrYKGoRupn7dvFmpzqgtesK0sUIaVbEBih1m9/0RHw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\1440188\\Desktop\\AED\\AED\\nivelamento1\\nivelamento1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\nivelamento1\\nivelamento1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
