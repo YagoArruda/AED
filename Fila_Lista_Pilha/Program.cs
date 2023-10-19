@@ -58,6 +58,35 @@ class Program
 
     }
 
+    //Inserir
+    public static void inserir(int ref count, int[] vetor)
+    {
+        if (count < vetor.Length)
+        {
+            Console.WriteLine("Digite o numero: ");
+            fvetor[count] = int.Parse(Console.ReadLine());
+            count++;
+
+            Console.Clear();
+        }
+        else
+        {
+            Console.WriteLine("Sem espaço!");
+        }
+    }
+    //Show
+    public static void show(int ref count, int[] vetor)
+    {
+        Console.Clear();
+
+        for (int i = 0; i < count; i++)
+        {
+            Console.Write($"{vetor[i]}/");
+        }
+        Console.WriteLine("");
+    }
+
+
     //Fila
     public static int filaOps()
     {

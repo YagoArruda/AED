@@ -1,0 +1,15 @@
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.csproj.AssemblyReference.cache
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.AssemblyInfoInputs.cache
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.AssemblyInfo.cs
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\1440188\Desktop\AED\AED\Fila\bin\Debug\net6.0\Fila.exe
+C:\Users\1440188\Desktop\AED\AED\Fila\bin\Debug\net6.0\Fila.deps.json
+C:\Users\1440188\Desktop\AED\AED\Fila\bin\Debug\net6.0\Fila.runtimeconfig.json
+C:\Users\1440188\Desktop\AED\AED\Fila\bin\Debug\net6.0\Fila.dll
+C:\Users\1440188\Desktop\AED\AED\Fila\bin\Debug\net6.0\Fila.pdb
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.dll
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\refint\Fila.dll
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.pdb
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\Fila.genruntimeconfig.cache
+C:\Users\1440188\Desktop\AED\AED\Fila\obj\Debug\net6.0\ref\Fila.dll

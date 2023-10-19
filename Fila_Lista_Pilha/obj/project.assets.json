@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yago\\.nuget\\packages\\": {}
+    "C:\\Users\\1440188\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila_Lista_Pilha\\Fila_Lista_Pilha.csproj",
+      "projectUniqueName": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila_Lista_Pilha\\Fila_Lista_Pilha.csproj",
       "projectName": "Fila_Lista_Pilha",
-      "projectPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila_Lista_Pilha\\Fila_Lista_Pilha.csproj",
-      "packagesPath": "C:\\Users\\Yago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila_Lista_Pilha\\obj\\",
+      "projectPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila_Lista_Pilha\\Fila_Lista_Pilha.csproj",
+      "packagesPath": "C:\\Users\\1440188\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila_Lista_Pilha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1440188\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
