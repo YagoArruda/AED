@@ -1,0 +1,113 @@
+﻿using System;
+using System.IO;
+using System.Text;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+
+        Console.Clear();
+
+        Console.WriteLine("Tamanho da pilha: ");
+        int[] pilha = new int[int.Parse(Console.ReadLine())];
+
+        Console.Clear();
+
+        int op = 0;
+        int qtd = 0;
+
+        do
+        {
+            do
+            {
+
+                Console.WriteLine("--- Pilha ---");
+                Console.WriteLine("1 - Inserir elemento");
+                Console.WriteLine("2 - Remover elemento");
+                Console.WriteLine("3 - Verificar vazio");
+                Console.WriteLine("4 - Ler elemento");
+                Console.WriteLine("0 - Sair");
+                Console.WriteLine("--- --- ---");
+                op = int.Parse(Console.ReadLine());
+            }
+            while (op > 4 || op < 0);
+
+            switch (op)
+            {
+                case 1:
+                    inserir(pilha, ref qtd);
+                    break;
+                case 2:
+                    remover(pilha, ref qtd);
+                    break;
+                case 3:
+                    vazio(qtd);
+                    break;
+                case 4:
+                    ler(pilha, qtd);
+                    break;
+            }
+
+        }
+        while (op != 0);
+
+    }
+
+    public static void inserir(int[] fila, ref int qtd)
+    {
+        Console.Clear();
+
+        if (qtd < fila.Length)
+        {
+            Console.WriteLine("Valor a ser inserido: ");
+            fila[qtd] = int.Parse(Console.ReadLine());
+            qtd++;
+        }
+        else
+        {
+            Console.WriteLine("Pilha cheia!");
+        }
+    }
+
+    public static void remover(int[] fila, ref int qtd)
+    {
+        Console.Clear();
+        if (qtd > 0)
+        {
+            qtd--;
+        }
+        else
+        {
+            Console.WriteLine("Pilha vazia!");
+        }
+    }
+
+    public static void vazio(int qtd)
+    {
+        Console.Clear();
+
+        if (qtd == 0)
+        {
+            Console.WriteLine("Esta vazio!");
+        }
+        else
+        {
+            Console.WriteLine("Nao esta vazio!");
+        }
+    }
+
+    public static void ler(int[] fila, int qtd)
+    {
+        Console.Clear();
+
+        if (qtd > 0)
+        {
+            Console.WriteLine($"Ultimo elemento: {fila[qtd - 1]}");
+        }
+        else
+        {
+            Console.WriteLine("Pilha vazia!");
+        }
+    }
+}

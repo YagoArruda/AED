@@ -21,7 +21,6 @@ class Program
         {
             do
             {
-
                 Console.WriteLine("--- Fila ---");
                 Console.WriteLine("1 - Inserir elemento");
                 Console.WriteLine("2 - Remover elemento");
@@ -56,6 +55,7 @@ class Program
 
     public static void inserir(int[] fila, ref int qtd)
     {
+        Console.Clear();
         if (qtd < fila.Length)
         {
             Console.WriteLine("Valor a ser inserido: ");
@@ -66,11 +66,11 @@ class Program
         {
             Console.WriteLine("Fila cheia!");
         }
-        //Console.Clear();
     }
 
     public static void remover(int[] fila, ref int qtd)
     {
+        Console.Clear();
         if (qtd > 0)
         {
             for (int i = 0; i < qtd - 1; i++)
@@ -83,11 +83,11 @@ class Program
         {
             Console.WriteLine("Fila vazia!");
         }
-        //Console.Clear();
     }
 
     public static void vazio(int qtd)
     {
+        Console.Clear();
         if (qtd == 0)
         {
             Console.WriteLine("Esta vazio!");
@@ -100,6 +100,7 @@ class Program
 
     public static void ler(int[] fila, int qtd)
     {
+        Console.Clear();
         if (qtd > 0)
         {
             Console.WriteLine($"Primeiro elemento: {fila[0]}");
@@ -108,6 +109,5 @@ class Program
         {
             Console.WriteLine("Fila vazia!");
         }
-        //Console.Clear();
     }
 }

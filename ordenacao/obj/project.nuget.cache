@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wPbwSZ3MouWkkoRBi2oNcyNSS+9Hwgdb+xruUV27qsL96yoxed8+frnmQGLIy1g0kbZJt2TtUVYaqbkuizJ5rA==",
+  "dgSpecHash": "7l15L8CLu9vTepKMShKs0bupLP2ADTaCbIVQu79Wd8uGGY21cfq4Ai2oYEZoqZqKsN/Bddm9UngoBxmlZGgB0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\ordenacao\\ordenacao.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1440188\\.nuget\\packages\\": {}
+    "C:\\Users\\Yago\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila\\Fila.csproj",
+      "projectUniqueName": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila\\Fila.csproj",
       "projectName": "Fila",
-      "projectPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila\\Fila.csproj",
-      "packagesPath": "C:\\Users\\1440188\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\Fila\\obj\\",
+      "projectPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila\\Fila.csproj",
+      "packagesPath": "C:\\Users\\Yago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Fila\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1440188\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

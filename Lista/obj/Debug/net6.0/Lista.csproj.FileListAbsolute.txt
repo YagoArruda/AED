@@ -1,0 +1,15 @@
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\bin\Debug\net6.0\Lista.exe
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\bin\Debug\net6.0\Lista.deps.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\bin\Debug\net6.0\Lista.runtimeconfig.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\bin\Debug\net6.0\Lista.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\bin\Debug\net6.0\Lista.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.csproj.AssemblyReference.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.AssemblyInfo.cs
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\refint\Lista.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\Lista.genruntimeconfig.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Lista\obj\Debug\net6.0\ref\Lista.dll
