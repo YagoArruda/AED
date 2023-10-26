@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj": {}
+    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj": {
+    "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj",
-        "projectName": "ordenacao",
-        "projectPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj",
+        "projectUniqueName": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Classes\\Classes.csproj",
+        "projectName": "Classes",
+        "projectPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Yago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\obj\\",
+        "outputPath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
