@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bVlFDo8eGFz2k9eyqfLo2QcUc8JvCCeaYEvIRSL9P3VDABXldU8Bm0TmO3/pTOOPrTh5DVTqSfm7ILHR/4Xaqw==",
+  "dgSpecHash": "wPbwSZ3MouWkkoRBi2oNcyNSS+9Hwgdb+xruUV27qsL96yoxed8+frnmQGLIy1g0kbZJt2TtUVYaqbkuizJ5rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yago\\Desktop\\Projetos Github\\AED\\ordenacao\\ordenacao.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\1440188\\Desktop\\AED\\AED\\ordenacao\\ordenacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1440188\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
