@@ -1,0 +1,14 @@
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.AssemblyInfo.cs
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.csproj.CoreCompileInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\bin\Debug\net7.0\Fila_Dinamica.exe
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\bin\Debug\net7.0\Fila_Dinamica.deps.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\bin\Debug\net7.0\Fila_Dinamica.runtimeconfig.json
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\bin\Debug\net7.0\Fila_Dinamica.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\bin\Debug\net7.0\Fila_Dinamica.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\refint\Fila_Dinamica.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\Fila_Dinamica.genruntimeconfig.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\Fila_Dinamica\obj\Debug\net7.0\ref\Fila_Dinamica.dll

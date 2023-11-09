@@ -258,7 +258,8 @@ class Program
                     int cadastrados = int.Parse(arquiv.ReadLine());
                     string[] imcs = new string[cadastrados + 1];
 
-                    for(int i = 0; i < cadastrados; i++){
+                    for (int i = 0; i < cadastrados; i++)
+                    {
                         imcs[i] = arquiv.ReadLine();
                     }
 
@@ -340,22 +341,22 @@ class Program
         leitor.Close();
     }
 
-public static void ChecarArquivo()
-{
-    string path = @"IMC.txt";
-
-    if (File.Exists(path))
+    public static void ChecarArquivo()
     {
-        StreamReader arquiv = new StreamReader(path);
-        arquiv.Close();
-    }
-    else
-    {
-        StreamWriter escritor = new StreamWriter(path);
-        escritor.WriteLine("0");
-        escritor.Close();
-    }
+        string path = @"IMC.txt";
 
-}
+        if (File.Exists(path))
+        {
+            StreamReader arquiv = new StreamReader(path);
+            arquiv.Close();
+        }
+        else
+        {
+            StreamWriter escritor = new StreamWriter(path);
+            escritor.WriteLine("0");
+            escritor.Close();
+        }
+
+    }
 
 }
