@@ -1,0 +1,14 @@
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.AssemblyInfo.cs
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\bin\Debug\net7.0\CalculadoraPorCodigo.exe
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\bin\Debug\net7.0\CalculadoraPorCodigo.deps.json
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\bin\Debug\net7.0\CalculadoraPorCodigo.runtimeconfig.json
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\bin\Debug\net7.0\CalculadoraPorCodigo.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\bin\Debug\net7.0\CalculadoraPorCodigo.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\refint\CalculadoraPorCodigo.dll
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.pdb
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\CalculadoraPorCodigo.genruntimeconfig.cache
+C:\Users\Yago\Desktop\Projetos Github\AED\CalculadoraPorCodigo\obj\Debug\net7.0\ref\CalculadoraPorCodigo.dll
