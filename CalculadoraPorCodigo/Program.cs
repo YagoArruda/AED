@@ -9,7 +9,6 @@ class Program
         int op;
         do
         {
-
             do
             {
                 Console.WriteLine("--- Opções ---");
@@ -88,23 +87,91 @@ class Program
 
             if (op != 0)
             {
-                formulaFinal.ExibirFila();
+                formulaFinal.ExibirPilha();
+                Console.WriteLine($"{resolver(formulaFinal)}");
             }
 
         }
         while (op != 0);
 
     }
+
+
+
+    public static int resolver(pilha formula)
+    {
+        int resultado = 0;
+
+        pilha aux = new pilha();
+
+        while (formula.ultimo != null)
+        {
+            aux.Adicionar(formula.Remover());
+        }
+        character atual = aux.primeiro;
+
+        while (atual.ValorAtual != null)
+        {
+            character num2Ref = atual.anterior;
+
+            string num1 = atual.anterior.ValorAtual.ToString();
+            string num2 = num2Ref.ValorAtual.ToString();
+
+            switch (atual.ValorAtual.ToString())
+            {
+                case "-":
+                    resultado += int.Parse(num1) - int.Parse(num2);
+                    break;
+                case "+":
+                    resultado += int.Parse(num1) + int.Parse(num2);
+                    break;
+                case "*":
+                    resultado += int.Parse(num1) * int.Parse(num2);
+                    break;
+                case "/":
+                    resultado += int.Parse(num1) / int.Parse(num2);
+                    break;
+            }
+            atual = atual.proximo;
+        }
+
+        /*
+                for (int i = 0; i < formula.Length; i++)
+                {
+                    if (formula[i] == "-" || formula[i] == "+" || formula[i] == "*" || formula[i] == "/")
+                    {
+                        if (i >= 2)
+                        {
+                            switch (formula[i])
+                            {
+                                case "-":
+                                    resultado += int.Parse(formula[i - 2]) - int.Parse(formula[i - 1]);
+                                    break;
+                                case "+":
+                                    resultado += int.Parse(formula[i - 2]) + int.Parse(formula[i - 1]);
+                                    break;
+                                case "*":
+                                    resultado += int.Parse(formula[i - 2]) * int.Parse(formula[i - 1]);
+                                    break;
+                                case "/":
+                                    resultado += int.Parse(formula[i - 2]) / int.Parse(formula[i - 1]);
+                                    break;
+                            }
+                        }
+                    }
+                }
+            */
+
+        return resultado;
+    }
+
 }
 
 
 
 class pilha
 {
-
-    public char ultimoADC;
-    public int qtd;
-    character primeiro;
+    public character primeiro;
     public character ultimo;
 
     public pilha()
@@ -129,17 +196,14 @@ class pilha
             ultimo = novoValor;
         }
 
-        qtd++;
-        ultimoADC = ultimo.ValorAtual;
     }
 
     public char Remover()
     {
-        qtd--;
 
         if (primeiro == null)
         {
-            Console.WriteLine("A fila está vazia.");
+            Console.WriteLine("A pilha está vazia.");
         }
         else
         {
@@ -157,7 +221,7 @@ class pilha
         return '{';
     }
 
-    public void ExibirFila()
+    public void ExibirPilha()
     {
         character atual = primeiro;
 
@@ -173,6 +237,20 @@ class pilha
     public bool Vazia()
     {
         return primeiro == null;
+    }
+
+    public string RetornarPilha()
+    {
+        string resultado = "";
+        character atual = primeiro;
+
+        while (atual != null)
+        {
+            resultado += atual.ValorAtual;
+            atual = atual.proximo;
+        }
+
+        return resultado;
     }
 }
 
